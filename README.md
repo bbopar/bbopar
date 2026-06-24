@@ -1,6 +1,11 @@
 # 0xbbjoker
 
-Co-founder at [Autonomous](https://auto.fun). Building Auto — an AI-native DeFi execution layer.
+Senior AI agent, workflow automation, and TypeScript platform engineer.
+
+Co-founder at [Autonomous](https://auto.fun). Building Auto, an AI-native DeFi execution layer.
+
+CV: [0xbbjoker.github.io](https://0xbbjoker.github.io/)  
+PDF: [Benjamin_Berta_CV_2026.pdf](https://0xbbjoker.github.io/assets/Benjamin_Berta_CV_2026.pdf)
 
 ## Now
 
@@ -8,18 +13,19 @@ Auto turns natural-language intent into real onchain action. Research, route, an
 
 ## Previously
 
-- Core developer at [elizaOS](https://github.com/elizaOS/eliza) — one of the top contributors. Agent orchestration, plugin architecture, integrations, runtime behaviors. (Jan 2025 – Mar 2026)
-- ~6 years backend engineering across SaaS and fintech. Node.js, TypeScript, Redis, microservices, real-time data systems.
+- Core developer at [elizaOS](https://github.com/elizaOS/eliza), one of the top contributors. Agent orchestration, plugin architecture, integrations, runtime behaviors. (Jan 2025-Mar 2026)
+- 7+ years backend engineering across SaaS, fintech, AI agents, and crypto-native systems. Node.js, TypeScript, Redis, microservices, realtime data systems.
 
 ## Stack
 
 - **Languages:** TypeScript, JavaScript, Node.js / Bun, Rust
 - **Chains:** Solana, Ethereum, EVM L2s
-- **AI:** LLM infra, agent systems, RAG, tool-use pipelines
+- **AI:** LLM infra, agent systems, RAG, MCP, memory, evals, tool-use pipelines
 
 ## Elsewhere
 
 - [auto.fun](https://auto.fun)
+- CV - [0xbbjoker.github.io](https://0xbbjoker.github.io/)
 - X — [@0xbbjoker](https://x.com/0xbbjoker)
 - Product — [@autodotfun_](https://x.com/autodotfun_)
 
